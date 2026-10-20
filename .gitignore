@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+venv/
+.pytest_cache/
+*.parquet
+clean_output.csv
+dirty_auth_logs.csv
+report.json
